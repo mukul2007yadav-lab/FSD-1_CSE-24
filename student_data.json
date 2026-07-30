@@ -1,0 +1,102 @@
+[
+  {
+    "studentId": "S1001",
+    "firstName": "Aarav",
+    "lastName": "Sharma",
+    "age": 20,
+    "major": "Computer Science",
+    "gpa": 3.8,
+    "isEnrolled": true,
+    "courses": ["Data Structures", "Linear Algebra", "Web Development"]
+  },
+  {
+    "studentId": "S1002",
+    "firstName": "Priya",
+    "lastName": "Patel",
+    "age": 21,
+    "major": "Mechanical Engineering",
+    "gpa": 3.5,
+    "isEnrolled": true,
+    "courses": ["Thermodynamics", "Fluid Mechanics", "Engineering Drawing"]
+  },
+  {
+    "studentId": "S1003",
+    "firstName": "James",
+    "lastName": "Chen",
+    "age": 19,
+    "major": "Business Administration",
+    "gpa": 3.2,
+    "isEnrolled": true,
+    "courses": ["Microeconomics", "Marketing Principles", "Accounting"]
+  },
+  {
+    "studentId": "S1004",
+    "firstName": "Maria",
+    "lastName": "Garcia",
+    "age": 22,
+    "major": "Nursing",
+    "gpa": 3.9,
+    "isEnrolled": false,
+    "courses": ["Human Anatomy", "Microbiology", "Pharmacology"]
+  },
+  {
+    "studentId": "S1005",
+    "firstName": "David",
+    "lastName": "Kim",
+    "age": 20,
+    "major": "Mathematics",
+    "gpa": 3.7,
+    "isEnrolled": true,
+    "courses": ["Calculus III", "Discrete Mathematics", "Probability"]
+  },
+  {
+    "studentId": "S1006",
+    "firstName": "Fatima",
+    "lastName": "Ali",
+    "age": 21,
+    "major": "Psychology",
+    "gpa": 3.6,
+    "isEnrolled": true,
+    "courses": ["Cognitive Psychology", "Research Methods", "Behavioral Neuroscience"]
+  },
+  {
+    "studentId": "S1007",
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "age": 23,
+    "major": "History",
+    "gpa": 3.1,
+    "isEnrolled": true,
+    "courses": ["World War II", "Ancient Rome", "Modern European History"]
+  },
+  {
+    "studentId": "S1008",
+    "firstName": "Chloe",
+    "lastName": "Dubois",
+    "age": 19,
+    "major": "Graphic Design",
+    "gpa": 3.4,
+    "isEnrolled": true,
+    "courses": ["Typography", "Color Theory", "Digital Illustration"]
+  },
+  {
+    "studentId": "S1009",
+    "firstName": "Ethan",
+    "lastName": "Williams",
+    "age": 20,
+    "major": "Biology",
+    "gpa": 3.3,
+    "isEnrolled": true,
+    "courses": ["Cell Biology", "Genetics", "Organic Chemistry"]
+  },
+  {
+    "studentId": "S1010",
+    "firstName": "Sofia",
+    "lastName": "Rossi",
+    "age": 22,
+    "major": "English Literature",
+    "gpa": 3.8,
+    "isEnrolled": true,
+    "courses": ["Shakespearean Tragedies", "Creative Writing", "Modern Poetry"]
+  }
+]
